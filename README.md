@@ -1,4 +1,4 @@
-<em> # Repositorio para el módulo de programación con inteligencia artificial </em>
+<em> # Repositorio para el módulo de programación de inteligencia artificial </em>
 ## Description
 Se utilizará para realizar las distintas prácticas y proyectos indicados en las unidades.
 ## Version History
