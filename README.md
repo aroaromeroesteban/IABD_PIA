@@ -4,7 +4,7 @@ Se utilizará para realizar las distintas prácticas y proyectos indicados en la
 ## Version History
 
 * 0.2
-    * Hello word in Python
+    * Hello world in Python
 * 0.1
     * Initial Release
 
