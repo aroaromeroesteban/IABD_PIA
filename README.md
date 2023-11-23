@@ -4,8 +4,8 @@ Se utilizará para realizar las distintas prácticas y proyectos indicados en la
 ## Version History
 
 * 0.2
-    * Hello world in Python
+    * Crear un sencillo Hola Mundo en Python.
 * 0.1
-    * Initial Release
+    * Crear cuenta en GitHub y archivo Readme con lenguaje de marcación.
 
 
